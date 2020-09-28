@@ -1,12 +1,13 @@
-
+<p>
+    http://realprogrammer.in/laravel-7-highcharts/
 </p>
 
 ## About
 <h2>Step 1: download in your system.</h2>  
 
-git clone https://github.com/siddharth018/laravel7multipledatabase.git
+git clone https://github.com/siddharth018/laravel-7-highcharts.git
 
-    cd laravel7multipledatabase
+    cd laravel-7-highcharts
 
 <h2>Step 2: Configure your database from .env file</h2> 
 
@@ -20,19 +21,6 @@ git clone https://github.com/siddharth018/laravel7multipledatabase.git
     DB_USERNAME=root
     
     DB_PASSWORD=root@123
-
-    
-    DB_CONNECTION_SECOND=mysql2
-    
-    DB_HOST_SECOND=127.0.0.1
-    
-    DB_PORT_SECOND=3306
-    
-    DB_DATABASE_SECOND=laravel2Db
-    
-    DB_USERNAME_SECOND=root
-    
-    DB_PASSWORD_SECOND=root@123
 
 <h2>Step 3: composer install</h2> 
     
